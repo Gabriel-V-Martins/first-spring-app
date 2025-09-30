@@ -3,7 +3,7 @@ package com.kipper.first_spring_app;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication // indica que é uma aplicação Spring Boot
 public class FirstSpringAppApplication {
 
 	public static void main(String[] args) {
